@@ -1,0 +1,25 @@
+h1 {
+margin-left: 770px;
+    width: 460px;
+    background-color: black;
+    height: 60px;
+    color: red;
+    font-size: 50px;
+}
+.red {
+    width: 100px;
+    height: 90px;
+    background-color: red;
+}
+.black {
+    width: 100px;
+    height: 90px;
+    background-color: black;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    display: inline-block;
+    margin: 5px;
+}

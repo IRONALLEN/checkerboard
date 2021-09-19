@@ -1,0 +1,18 @@
+h1 {
+    margin-left: 770px;
+        width: 460px;
+        background-color: black;
+        height: 60px;
+        color: red;
+        font-size: 50px;
+    }
+    .red {
+        width: 150px;
+        height: 120px;
+        background-color: red;
+    }
+    .black {
+        width: 150px;
+        height: 120px;
+        background-color: black;
+    }
